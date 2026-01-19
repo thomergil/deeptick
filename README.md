@@ -1,8 +1,8 @@
-# DeepTick
+# SharkByte
 
 Industrial-grade waterproof timers engineered for offshore research, marine operations, and subsea applications.
 
-More at [deeptick.io](https://deeptick.io)
+More at [sharkbyte.watch](https://sharkbyte.watch)
 
 ---
 
